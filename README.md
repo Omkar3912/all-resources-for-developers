@@ -1,3 +1,4 @@
+# all-resources-for-developers
 # free-for-dev
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
@@ -613,7 +614,12 @@ Table of Contents
   * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
 
 ## Other Free Resources
+  * [Webpage to host an event](https://lu.ma/) — A free of cost event entry hoster 
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
   * [github.com - Free for nonprofit](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
+
+# Follow me on social media handles
+ * [Instagram](https://instagram.com/omkarshintre_)
+
